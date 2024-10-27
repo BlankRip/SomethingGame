@@ -4,6 +4,5 @@ namespace SomethingGame
 
     public class Player : MonoBehaviour
     {
-        
     }
 }
